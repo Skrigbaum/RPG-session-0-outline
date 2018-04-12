@@ -1,4 +1,4 @@
-##Session 0 - Outline Document:
+## Session 0 - Outline Document:
 
 * Approach the game with an outline / elevator pitch in mind. (See pitch deck example below)
     *  When approaching the players about a game having an idea of the themes and aesthetics of the game can help sell it to the players. Compare these two descriptions:
@@ -22,8 +22,8 @@
     * During the Microscope Preamble if something interesting comes up you might look at centering a bond around it.
         * Ex. Yes to Floating Monoliths. New Bond Opportunity: "You met _____ in the most likely of place, atop a floating monolith."
 
-###Pitch Deck Example:
-####Guards of the Watch
+### Pitch Deck Example:
+#### Guards of the Watch
 ***You are new recruits to the Guards of the Watch in Polis, an industrial gothic city of princes and thieves.***
 
 Investigate the grisly death of the merchant Fildebrandt Croft and uncover the web of conspiracy being spun beneath the city by sinister minds.
